@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "fuck weibo",
+  "name": "irony",
   "version": "1.0",
-  "author": "yellowdi <yellowdi@me.com> (http://yellowdi.github.io)",
-  "description": "fuck weibo",
+  "author": "YellowDi <yellowdi@me.com> (http://yellowdi.github.io)",
+  "description": "irony",
   "icons": {
     "16": "img/icon-16.png",
     "46": "img/icon-46.png",

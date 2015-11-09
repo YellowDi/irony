@@ -1,5 +1,5 @@
-##weibo
-
+##irony
+去除微博上的广告的 Chrome 插件
 > [Google Chrome / Chromium](https://github.com/YellowDi/weibo)
 
 ## License
