@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "fuck weibo",
+  "version": "1.0",
+  "author": "yellowdi <yellowdi@me.com> (http://yellowdi.github.io)",
+  "description": "fuck weibo",
+  "icons": {
+    "16": "img/icon-16.png",
+    "46": "img/icon-46.png",
+    "128": "img/icon-128.png"
+  },
+  "permissions": [],
+  "content_scripts": [{
+    "matches": [
+      "http://weibo.com/*",
+      "http://www.weibo.com/*"
+    ],
+    "js": [
+
+    ],
+    "css": [
+      "css/card.css"
+    ]
+  }]
+}
