@@ -10,9 +10,7 @@ body {
   text-justify: ideographic!important;
   -webkit-font-smoothing: antialiased!important;
 }
-.WB_ad_tm2015_v2 {
-  opacity: 0;
-}
+
 .WB_ad_tm2015,
 /*简直是无限不要脸天猫横幅广告*/
 
@@ -61,5 +59,9 @@ body {
 #skin_cover_s {
   background: none !important;
 }
-
 /*这是右上角头像处的背景图，曾经被放了一只天猫，怒而删之，你也可以去掉这一行*/
+
+.WB_ad_tm2015_v2 {
+  opacity: 0;
+}
+/*天猫侧边栏推荐商品，你一定在逗我*/
