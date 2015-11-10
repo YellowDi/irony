@@ -3,7 +3,7 @@
   "name": "irony",
   "version": "1.0",
   "author": "YellowDi <yellowdi@me.com> (http://yellowdi.github.io)",
-  "description": "irony",
+  "description": "去除微博上烦人的天猫广告",
   "icons": {
     "16": "img/icon-16.png",
     "46": "img/icon-46.png",
