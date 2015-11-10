@@ -10,7 +10,6 @@ body {
   text-justify: ideographic!important;
   -webkit-font-smoothing: antialiased!important;
 }
-
 .WB_ad_tm2015,
 /*简直是无限不要脸天猫横幅广告*/
 
@@ -59,9 +58,146 @@ body {
 #skin_cover_s {
   background: none !important;
 }
+
 /*这是右上角头像处的背景图，曾经被放了一只天猫，怒而删之，你也可以去掉这一行*/
 
 .WB_ad_tm2015_v2 {
   opacity: 0;
 }
+
 /*天猫侧边栏推荐商品，你一定在逗我*/
+
+.WB_main_r, .WB_ad_tm2015, .webim_news, .title_area, .ficon_user, .ficon_search, .ficon_setup, .WB_info i, .icon_approve, .icon_approve_co, .icon_club, .icon_zongyika2014, .icon_member1, .icon_member2, .icon_member3, .icon_member4, .icon_member5, .icon_member6, .icon_member7, .icon_taobao, .icon_double11, .PCD_mplayer, .WB_from, .WB_frame_bottom, .WB_repeat .WB_face, .WB_feed_together, .WBIM_news, .W_arrow_bor, #v6_pl_content_publishertop, .gn_person, .gn_set_list:last-of-type, .W_vline, .W_tips, .W_layer_tips, .tab_feed_a.clearfix.S_line1, .between_line, #v6_pl_content_biztips, #plc_bot, div[feedtype="ad"], div[node-type="feed_nav"], div[node-type="leftnav_scroll"], div[node-type="player"], div[node-type="feed_spread"], .gn_nav_list li:last-child, .WB_feed_spec_info .WB_feed_spec_clearfix, a[nm="home"] .S_txt1, a[nm="find"], a[nm="game"] {
+  display: none !important;
+}
+body, .WB_main, .WB_frame {
+  background-color: #e2e2e2 !important;
+  line-height: 1.54;
+}
+.WB_global_nav, .WB_func .WB_handle li .line, .WB_feed_repeat, .WB_repeat, .WB_cardmore, .WB_feed_spec, .W_pages .prev, .W_pages .next, .WB_row_line, .gn_set, .list_li, fieldset, .webim_list_head, .lev_Box {
+  border: none !important;
+  box-shadow: none;
+}
+.spec_box {
+  background-color: #FFF;
+}
+.WB_cardwrap {
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  border-bottom: 1px solid #e2e2e2;
+}
+.WB_media_a_mn {
+  margin: -6px 0px 0px -3px;
+}
+.WB_global_nav {
+  height: 50px !important;
+}
+.WB_global_nav .gn_search_v2 {
+  width: 476px !important;
+  left: -55px !important;
+  background: url("//dn-startplay.qbox.me/v2ex-material-theme2/icon/search.svg") no-repeat 10px center rgba(255,255,255,0.15) !important;
+  border: none;
+}
+.WB_global_nav .gn_search_v2 .placeholder, .WB_global_nav .gn_search_v2 .W_input {
+  left: 30px;
+}
+.WB_global_nav .gn_nav {
+  margin: 10px -62px 11px 0px !important;
+}
+.S_txt1, a[render="ext"], .gn_set, .gn_person {
+  color: #AAA !important;
+}
+.WB_handle, .func_area, .ficon_arrow_down, .WB_func {
+  border: none;
+  opacity: 0;
+}
+.WB_handle:hover, .func_area:hover, .ficon_arrow_down:hover, .WB_func:hover {
+  opacity: 1;
+}
+.WB_media_wrap {
+  margin: 10px 0px 8px -10px;
+}
+.WB_cardwrap {
+  box-shadow: none;
+}
+div[node-type="tips"], .WB_webim .webim_win_minD, .layer_menu_list, .W_layer_pop .content, .W_layer .content, .wbim_chat_box, .webim_list, .gn_topmenulist {
+  border: none !important;
+  background: #FFF !important;
+  box-shadow: 0px 5px 8px 1px rgba(0, 0, 0, 0.2) !important;
+}
+.gn_search {
+  margin: 11px 0 10px 250px !important;
+}
+.gn_search .W_input {
+  color: #DDD !important;
+}
+.W_input, .WB_row_line .line {
+  background: none !important;
+  border: none !important;
+}
+.S_ficon {
+  color: #AAA !important;
+}
+.WB_main_c {
+  margin-left: 20px;
+}
+.S_bg1 {
+  background-color: #FBFBFB !important;
+}
+.WB_notes {
+  margin: -20px 0 0;
+  padding: 0;
+  background: none;
+}
+img[node-type="_chatUserPic"] {
+  border-radius: 50px;
+}
+.webim_fold {
+  text-align: center;
+  width: 60px !important;
+  box-shadow: none;
+}
+.webim_fold .fold_bg {
+  background: none;
+}
+.WB_row_line .pos {
+  margin-left: 20px;
+}
+.WB_feed_handle {
+  width: 514px;
+  margin-left: 70px;
+}
+.WB_publish, .list_con {
+  margin: 0 !important;
+}
+.WB_feed_publish {
+  padding: 10px 30px;
+}
+.repeat_list {
+  padding: 0 30px 0 70px;
+}
+.fold_cont {
+  width: 60px !important;
+}
+.W_btn_b {
+  border: none !important;
+  box-shadow: none;
+}
+.W_btn_b:hover {
+  box-shadow: none;
+}
+.W_btn_cardlink {
+  background: none !important;
+  margin: 0;
+  padding: 0;
+}
+.W_btn_cardlink .W_autocut {
+  max-width: 500px !important;
+  margin-left: 2px !important;
+}
+.WB_feed_detail.clearfix {
+  background-image: none !important;
+}
+.WB_miniblog, .S_page .WB_miniblog, body, .S_page {
+  background: none !important;
+}
